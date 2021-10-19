@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/52cc482e-2f25-468c-8908-6f1666a40de9/resourceGroups/allsolmeetv1/providers/Microsoft.Web/sites/allsolmeetencrypt",
+    "appService.deploySubpath": "."
+}
